@@ -9,9 +9,9 @@ All analysis for this project was performed using a [SQLite database of weather 
 
 ### Comparison of June and December Temperature Data
 The tables below show summary statistics for temperature data for the months of June and December in Oahu. Key differences are:
--    The average temperature for June (about 75 F) is 4 degrees higher than the average temperature for December (about 71 F). The difference between median temperatures for June and December is the same as the difference between average temperatures.
--    It can get cooler in December than in June, with a minimum temperature for December of 56 F, compared with a minimum temperature for June of 64 F.
--    The highs in June and December are similar, with a maximum temperature for June of 85 F and a maximum temperature for December of 83 F.
+-    The average temperature for June (about 75 degrees F) is 4 degrees higher than the average temperature for December (about 71 degrees F). The difference between median temperatures for June and December is the same as the difference between average temperatures.
+-    It can get cooler in December than in June, with a minimum temperature for December of 56 degrees F, compared with a minimum temperature for June of 64 degrees F.
+-    The highs in June and December are similar, with a maximum temperature for June of 85 degrees F and a maximum temperature for December of 83 degrees F.
 
 
 **June Temperature Data**
